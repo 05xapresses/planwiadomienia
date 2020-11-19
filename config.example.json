@@ -1,0 +1,52 @@
+{
+    "dlugoscLekcji": 45,
+    "pierwszaLekcja": "08:00",
+    "przerwy": [10, 10, 30, 10, 10, 10, 5, 5, 0], 
+    "plan": {
+      "1": [ 
+        "niemampomyslu",
+        "xddxdx",
+        null,
+        "fajnalekcja",
+        "ok",
+        "godzina wychowawcza",
+        "angielski"
+      ],
+      "2": [
+        "chemia",
+        "mowilamzechemiatosyf?",
+        "matematyka",
+        null,
+        "informatyka",
+        "bruh",
+        "wf"
+      ],
+      "3": [
+        null,
+        null,
+        "matematyka",
+        "polski",
+        "matematyka",
+        null,
+        null,
+        "informatyka",
+        "wf"
+      ],
+      "4": [
+        null,
+        "angielski",
+        "polski",
+        null,
+        "matematyka"
+      ],
+      "5": [
+        null,
+        "informatyka",
+        "matematyka",
+        "polski",
+        "angielski"
+      ]
+    },
+    "wiadomosc": "teraz jest %v (%v)",
+    "webhook": "https://discord.com/api/webhooks/smieszny/link/do/webhooka"
+}

@@ -1,4 +1,9 @@
 # planwiadomienia
+[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
+## O projekcie
 webhook na discordzie cie prześladuje kiedy są lekcje 
 
 ## Po co ten szajs?
@@ -10,4 +15,5 @@ Zmieniasz nazwę pliku `config.example.json` na `config.json`, poprawiasz wszyst
 Później `go build .` (ewentualnie wcześniej zmieniasz `GOOS` i `GOARCH` w zależności od tego gdzie chcesz to uruchomić) i uruchamiasz plik, który komenda wypluje ~~chyba nie powinnam tego tłumaczyć no ale za późno~~
 
 btw [fratik](https://github.com/fratik) to niewoln- znaczy pomógł mi 
-<!-- golang to gówno i strasznie nienawidze czasu-->
+<!-- golang to gówno i strasznie nienawidze czasu -->
+<!-- to używaj js!!!!! btw juby cute af -->
